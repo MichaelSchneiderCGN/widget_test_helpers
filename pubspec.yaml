@@ -1,7 +1,7 @@
 name: widget_test_helpers
 description: Little helpers to simplify widget testing.
 version: 0.0.1
-homepage:
+repository: https://github.com/MichaelSchneiderCGN/widget_test_helpers
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -10,10 +10,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
-dev_dependencies:
   flutter_test:
     sdk: flutter
+
+dev_dependencies:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
